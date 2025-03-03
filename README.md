@@ -6,8 +6,7 @@
 **Level**: Beginner  
 **Database**: `pgAdmin`
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. 
-
+This project showcases SQL skills and techniques commonly used by data analysts to explore, clean, and analyze retail sales data. It involves setting up a retail sales database, conducting exploratory data analysis (EDA), and leveraging SQL queries to answer key business questions, providing valuable insights for data-driven decision-making.
 ## Objectives
 
 1. **Set up a retail sales database**: Create and populate a retail sales database with the provided sales data.
